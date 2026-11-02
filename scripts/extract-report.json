@@ -1,0 +1,17 @@
+{
+ "warnings": [],
+ "info": [],
+ "uncoveredProgramPages": [],
+ "stats": {
+  "events": 80,
+  "occurrences": 149,
+  "venues": 32,
+  "venuesLocated": 29,
+  "eventsWithoutMarker": [
+   "p66-weisser-rheinbogen",
+   "p83-strassenbaeume",
+   "p92-ft-turm-prinzengarde",
+   "p94-ft-burgen-rechtsrheinisch"
+  ]
+ }
+}

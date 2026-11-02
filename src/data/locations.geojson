@@ -1,0 +1,762 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "flora",
+   "properties": {
+    "id": "flora",
+    "name": "Flora, Botanischer Garten",
+    "street": "Alter Stammheimer Weg",
+    "postalCode": "50735",
+    "district": "Riehl",
+    "sourcePages": [
+     13,
+     14
+    ],
+    "precision": "poi",
+    "coordinateSource": "OSM/Nominatim: Flora, Riehl, Nippes, Köln, Nordrhein-Westfalen, Deutschland",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.970212,
+     50.961243
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "finkens-garten",
+   "properties": {
+    "id": "finkens-garten",
+    "name": "Finkens Garten",
+    "street": "Friedrich-Ebert-Straße 49",
+    "postalCode": "50996",
+    "district": "Rodenkirchen",
+    "sourcePages": [
+     10
+    ],
+    "precision": "address",
+    "coordinateSource": "OSM/Nominatim: 49, Friedrich-Ebert-Straße, Rodenkirchen, Köln, Nordrhein-Westfalen, 50996, Deutschland",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.985332,
+     50.888557
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "forstbotanischer-garten",
+   "properties": {
+    "id": "forstbotanischer-garten",
+    "name": "Forstbotanischer Garten",
+    "street": "Schillingsrotter Straße 100",
+    "postalCode": "50996",
+    "district": "Rodenkirchen",
+    "sourcePages": [
+     19
+    ],
+    "precision": "poi",
+    "coordinateSource": "OSM/Nominatim: Forstbotanischer Garten, Rodenkirchen, Köln, Nordrhein-Westfalen, Deutschland",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.982029,
+     50.885755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "gut-leidenhausen",
+   "properties": {
+    "id": "gut-leidenhausen",
+    "name": "Gut Leidenhausen",
+    "street": "Gut Leidenhausen 1",
+    "postalCode": "51147",
+    "district": "Porz-Eil",
+    "sourcePages": [
+     25,
+     36,
+     39
+    ],
+    "precision": "address",
+    "coordinateSource": "OSM/Nominatim: Gut Leidenhausen, 1, Gut Leidenhausen, Eil, Porz, Köln, Nordrhein-Westfalen, 51147, Deutsc",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.097335,
+     50.896308
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "stadtgaertnerei",
+   "properties": {
+    "id": "stadtgaertnerei",
+    "name": "Stadtgärtnerei Köln",
+    "street": "Am Grauen Stein 26",
+    "postalCode": "51105",
+    "district": "Poll",
+    "sourcePages": [
+     35,
+     65
+    ],
+    "precision": "address",
+    "coordinateSource": "OSM/Nominatim: Stadtgärtnerei Köln, 26, Am Grauen Stein, Milchmädchensiedlung, Gremberg, Poll, Porz, Köln",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.991591,
+     50.925265
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "freiluga",
+   "properties": {
+    "id": "freiluga",
+    "name": "Freiluga (Freiluft- und Gartenarbeitsschule)",
+    "street": "Belvederestraße 159",
+    "postalCode": "50933",
+    "district": "Müngersdorf",
+    "sourcePages": [
+     23,
+     81
+    ],
+    "precision": "address",
+    "coordinateSource": "OSM/Nominatim: Zwischenwerk V a, 159, Belvederestraße, Müngersdorf, Lindenthal, Köln, Nordrhein-Westfalen",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.868958,
+     50.94829
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "lindenthaler-tierpark",
+   "properties": {
+    "id": "lindenthaler-tierpark",
+    "name": "Lindenthaler Tierpark",
+    "street": "Kitschburger Straße",
+    "postalCode": null,
+    "district": "Lindenthal",
+    "sourcePages": [
+     31
+    ],
+    "precision": "poi",
+    "coordinateSource": "OSM/Nominatim: Lindenthaler Tierpark, 1, Marcel-Proust-Promenade, Lindenthal, Köln, Nordrhein-Westfalen, ",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.897233,
+     50.929337
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "wildpark-duennwald",
+   "properties": {
+    "id": "wildpark-duennwald",
+    "name": "Wildpark Dünnwald",
+    "street": "Dünnwalder Mauspfad 230",
+    "postalCode": "51069",
+    "district": "Dünnwald",
+    "sourcePages": [
+     43
+    ],
+    "precision": "poi",
+    "coordinateSource": "OSM/Nominatim: Wildpark Dünnwald, Baumpfad, Dünnwald, Mülheim, Köln, Nordrhein-Westfalen, 51069, Deutschl",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.053841,
+     50.99434
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "waldbad-duennwald",
+   "properties": {
+    "id": "waldbad-duennwald",
+    "name": "Waldbad Dünnwald (Eingang)",
+    "street": null,
+    "postalCode": null,
+    "district": "Dünnwald",
+    "sourcePages": [
+     55
+    ],
+    "precision": "stop",
+    "coordinateSource": "OSM/Nominatim: Waldbad, Dünnwalder Mühlenweg, Dünnwald, Mülheim, Köln, Nordrhein-Westfalen, 51069, Deutsc",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.054648,
+     50.998589
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "worringer-bruch",
+   "properties": {
+    "id": "worringer-bruch",
+    "name": "Worringer Bruch (Senfweg/Bruchstraße)",
+    "street": "Kreuzung Senfweg/Bruchstraße",
+    "postalCode": null,
+    "district": "Worringen",
+    "sourcePages": [
+     53
+    ],
+    "precision": "junction",
+    "coordinateSource": "OSM/Overpass: Knoten Senfweg × Bruchstraße (Worringen)",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.855303,
+     51.047436
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "siebenhuegelpark-vogelsang",
+   "properties": {
+    "id": "siebenhuegelpark-vogelsang",
+    "name": "StadtNaturPark Siebenhügelpark (Biesterfeld, Vogelsang)",
+    "street": null,
+    "postalCode": null,
+    "district": "Vogelsang",
+    "sourcePages": [
+     64
+    ],
+    "precision": "pdf",
+    "coordinateSource": "Koordinaten laut PDF S. 64 (Google Maps)",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.885013,
+     50.962039
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "waldlabor",
+   "properties": {
+    "id": "waldlabor",
+    "name": "Waldlabor (Bachemer Landstraße/Stüttgenweg)",
+    "street": "Bachemer Landstraße/Ecke Stüttgenweg",
+    "postalCode": null,
+    "district": "Junkersdorf",
+    "sourcePages": [
+     70,
+     126
+    ],
+    "precision": "junction",
+    "coordinateSource": "OSM/Overpass: Knoten Stüttgenweg × Bachemer Landstraße",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.877185,
+     50.918926
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "hst-westhoven",
+   "properties": {
+    "id": "hst-westhoven",
+    "name": "KVB-Haltestelle Westhoven/Kölner Straße",
+    "street": "Kölner Straße",
+    "postalCode": null,
+    "district": "Westhoven",
+    "sourcePages": [
+     73
+    ],
+    "precision": "stop",
+    "coordinateSource": "OSM/Nominatim: Westhoven, Kölner Straße, Kölner Straße, Kaserne Westhoven, Westhoven, Porz, Köln, Nordrhe",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.014905,
+     50.906605
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "stadtwald-duerener",
+   "properties": {
+    "id": "stadtwald-duerener",
+    "name": "Stadtwald (Dürener Straße/Stadtwaldgürtel)",
+    "street": "Dürener Straße/Stadtwaldgürtel",
+    "postalCode": null,
+    "district": "Lindenthal",
+    "sourcePages": [
+     80
+    ],
+    "precision": "stop",
+    "coordinateSource": "OSM/Nominatim: Dürener Straße/Gürtel, Stadtwaldgürtel, Lindenthal, Köln, Nordrhein-Westfalen, 50931, Deut",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.908605,
+     50.928405
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "hst-stuettgenhof",
+   "properties": {
+    "id": "hst-stuettgenhof",
+    "name": "KVB-Haltestelle Stüttgenhof",
+    "street": null,
+    "postalCode": null,
+    "district": "Junkersdorf",
+    "sourcePages": [
+     123
+    ],
+    "precision": "stop",
+    "coordinateSource": "OSM/Nominatim: Stüttgenhof, Stüttgenweg, Lindenthal, Köln, Nordrhein-Westfalen, 50935, Deutschland",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.877197,
+     50.92002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "hst-wilhelm-sollmann",
+   "properties": {
+    "id": "hst-wilhelm-sollmann",
+    "name": "KVB-Haltestelle Wilhelm-Sollmann-Straße",
+    "street": "Wilhelm-Sollmann-Straße",
+    "postalCode": null,
+    "district": null,
+    "sourcePages": [
+     127
+    ],
+    "precision": "stop",
+    "coordinateSource": "OSM/Overpass: Haltestelle Wilhelm-Sollmann-Straße (tram_stop)",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.941223,
+     50.991878
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "haus-am-see",
+   "properties": {
+    "id": "haus-am-see",
+    "name": "Parkplatz Haus am See, Decksteiner Weiher",
+    "street": null,
+    "postalCode": null,
+    "district": "Lindenthal",
+    "sourcePages": [
+     134
+    ],
+    "precision": "poi",
+    "coordinateSource": "OSM/Overpass: Knoten „Haus am See“ (Decksteiner Weiher); Parkplatz liegt in unmittelbarer Nähe",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.887997,
+     50.91843
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "ostfriedhof",
+   "properties": {
+    "id": "ostfriedhof",
+    "name": "Ostfriedhof (Eingang Dellbrücker Mauspfad)",
+    "street": "Dellbrücker Mauspfad",
+    "postalCode": null,
+    "district": "Dellbrück",
+    "sourcePages": [
+     140
+    ],
+    "precision": "stop",
+    "coordinateSource": "OSM/Nominatim: Ostfriedhof, Dellbrücker Mauspfad, Dellbrück, Mülheim, Köln, Nordrhein-Westfalen, 51069, D",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.072742,
+     50.9638
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "zwischenwerk-iiib",
+   "properties": {
+    "id": "zwischenwerk-iiib",
+    "name": "Zwischenwerk IIIb (Buschweg/Militärringstraße)",
+    "street": "Buschweg/Militärringstraße",
+    "postalCode": null,
+    "district": "Nüssenberger Busch",
+    "sourcePages": [
+     88
+    ],
+    "precision": "poi",
+    "coordinateSource": "OSM/Nominatim: Zwischenwerk IIIb, 2, Buschweg, Ossendorf, Ehrenfeld, Köln, Nordrhein-Westfalen, 50829, De",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.874314,
+     50.984449
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "fort-iv",
+   "properties": {
+    "id": "fort-iv",
+    "name": "Fort IV (Freimersdorfer Weg)",
+    "street": "Freimersdorfer Weg",
+    "postalCode": null,
+    "district": "Bocklemünd",
+    "sourcePages": [
+     89
+    ],
+    "precision": "poi",
+    "coordinateSource": "OSM/Nominatim: Fort IV, 2, Freimersdorfer Weg, Bocklemünd, Bocklemünd/Mengenich, Ehrenfeld, Köln, Nordrhe",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.860997,
+     50.971441
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "fort-x-neusser-wall",
+   "properties": {
+    "id": "fort-x-neusser-wall",
+    "name": "Fort X (Neusser Wall)",
+    "street": "Neusser Wall 41",
+    "postalCode": null,
+    "district": "Neustadt-Nord",
+    "sourcePages": [
+     90,
+     101
+    ],
+    "precision": "poi",
+    "coordinateSource": "OSM/Nominatim: Fort X, 33, Neusser Wall, Agnesviertel, Neustadt/Nord, Innenstadt, Köln, Nordrhein-Westfal",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.961161,
+     50.957371
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "kunibertsturm",
+   "properties": {
+    "id": "kunibertsturm",
+    "name": "Haus Konrad-Adenauer-Ufer 55 (Kunibertstürmchen)",
+    "street": "Konrad-Adenauer-Ufer 55",
+    "postalCode": null,
+    "district": "Altstadt-Nord",
+    "sourcePages": [
+     91
+    ],
+    "precision": "address",
+    "coordinateSource": "OSM/Nominatim: 55, Konrad-Adenauer-Ufer, Kunibertsviertel, Altstadt-Nord, Innenstadt, Köln, Nordrhein-Wes",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.96481,
+     50.948598
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "fort-vi",
+   "properties": {
+    "id": "fort-vi",
+    "name": "Fort VI (Deckstein)",
+    "street": null,
+    "postalCode": null,
+    "district": "Marienburg/Klettenberg",
+    "sourcePages": [
+     93
+    ],
+    "precision": "poi",
+    "coordinateSource": "OSM/Nominatim: Fort VI, Deckstein, Lindenthal, Köln, Nordrhein-Westfalen, 50935, Deutschland",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.891061,
+     50.914657
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "fort-x-rechtsrheinisch",
+   "properties": {
+    "id": "fort-x-rechtsrheinisch",
+    "name": "Fort X rechtsrheinisch (Nohlenweg)",
+    "street": "Frankfurter Straße/Nohlenweg",
+    "postalCode": null,
+    "district": "Höhenberg",
+    "sourcePages": [
+     96
+    ],
+    "precision": "poi",
+    "coordinateSource": "OSM/Nominatim: Fort X, Nohlenweg, Merheim, Kalk, Köln, Nordrhein-Westfalen, 51107, Deutschland",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.035891,
+     50.938335
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "fort-i",
+   "properties": {
+    "id": "fort-i",
+    "name": "Fort I (Oberländer Wall)",
+    "street": "Oberländer Wall",
+    "postalCode": null,
+    "district": "Neustadt-Süd",
+    "sourcePages": [
+     97
+    ],
+    "precision": "street",
+    "coordinateSource": "OSM/Nominatim, Mittel von 2 Straßenabschnitten: Oberländer Wall Köln",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.967172,
+     50.917665
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "malzmuehle",
+   "properties": {
+    "id": "malzmuehle",
+    "name": "An der Malzmühle / Mühlenbach",
+    "street": "An der Malzmühle",
+    "postalCode": null,
+    "district": "Altstadt-Süd",
+    "sourcePages": [
+     98
+    ],
+    "precision": "street",
+    "coordinateSource": "OSM/Nominatim: An der Malzmühle, Georgsviertel, Altstadt-Süd, Innenstadt, Köln, Nordrhein-Westfalen, 5067",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.95971,
+     50.934011
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "bottmuehle",
+   "properties": {
+    "id": "bottmuehle",
+    "name": "Bottmühle (Severinswall)",
+    "street": "Severinswall",
+    "postalCode": null,
+    "district": "Altstadt-Süd",
+    "sourcePages": [
+     100
+    ],
+    "precision": "poi",
+    "coordinateSource": "OSM/Nominatim: Bottmühle, 32, Severinswall, Severinsviertel, Altstadt-Süd, Innenstadt, Köln, Nordrhein-We",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.963085,
+     50.922816
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "gereonswall",
+   "properties": {
+    "id": "gereonswall",
+    "name": "Am Kümpchenshof / Gereonswall",
+    "street": "Am Kümpchenshof",
+    "postalCode": null,
+    "district": "Neustadt-Nord",
+    "sourcePages": [
+     102
+    ],
+    "precision": "street",
+    "coordinateSource": "OSM/Nominatim, Mittel von 2 Straßenabschnitten: Am Kümpchenshof Köln",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.946129,
+     50.946305
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "ulrepforte",
+   "properties": {
+    "id": "ulrepforte",
+    "name": "Ulrepforte (Kartäuser Wall)",
+    "street": "Kartäuserwall",
+    "postalCode": null,
+    "district": "Neustadt-Süd",
+    "sourcePages": [
+     103
+    ],
+    "precision": "poi",
+    "coordinateSource": "OSM/Nominatim: Ulrepforte, Südstadt, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50677, Deutschl",
+    "unlocatedReason": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.953082,
+     50.924232
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "rodenkirchen-uferstrasse",
+   "properties": {
+    "id": "rodenkirchen-uferstrasse",
+    "name": "Uferstraße, Parkplatz am Minigolfplatz",
+    "street": "Uferstraße",
+    "postalCode": null,
+    "district": "Rodenkirchen",
+    "sourcePages": [
+     66
+    ],
+    "precision": null,
+    "coordinateSource": null,
+    "unlocatedReason": "Minigolfplatz/Parkplatz an der Uferstraße (Rodenkirchen) in OSM nicht eindeutig auffindbar; Uferstraße ist lang"
+   },
+   "geometry": null
+  },
+  {
+   "type": "Feature",
+   "id": "turm-prinzengarde",
+   "properties": {
+    "id": "turm-prinzengarde",
+    "name": "Turm der Prinzengarde (Sachsenring)",
+    "street": "Sachsenring",
+    "postalCode": null,
+    "district": "Neustadt-Süd",
+    "sourcePages": [
+     92
+    ],
+    "precision": null,
+    "coordinateSource": null,
+    "unlocatedReason": "„Turm der Prinzengarde“ am Sachsenring in OSM/Nominatim nicht auffindbar"
+   },
+   "geometry": null
+  },
+  {
+   "type": "Feature",
+   "id": "hst-dellbruecker-hauptstr",
+   "properties": {
+    "id": "hst-dellbruecker-hauptstr",
+    "name": "KVB-Haltestelle Dellbrücker Hauptstraße",
+    "street": "Dellbrücker Hauptstraße",
+    "postalCode": null,
+    "district": "Dellbrück",
+    "sourcePages": [
+     94
+    ],
+    "precision": null,
+    "coordinateSource": null,
+    "unlocatedReason": "Haltestelle „Dellbrücker Hauptstraße“ nicht eindeutig auffindbar; Straße ist lang"
+   },
+   "geometry": null
+  }
+ ]
+}

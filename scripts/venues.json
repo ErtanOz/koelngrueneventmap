@@ -1,0 +1,473 @@
+[
+ {
+  "id": "flora",
+  "name": "Flora, Botanischer Garten",
+  "street": "Alter Stammheimer Weg",
+  "plz": "50735",
+  "district": "Riehl",
+  "pages": [
+   13,
+   14
+  ],
+  "geocode": {
+   "query": "Botanischer Garten Köln",
+   "precision": "poi",
+   "pick": 0
+  }
+ },
+ {
+  "id": "finkens-garten",
+  "name": "Finkens Garten",
+  "street": "Friedrich-Ebert-Straße 49",
+  "plz": "50996",
+  "district": "Rodenkirchen",
+  "pages": [
+   10
+  ],
+  "geocode": {
+   "query": "Friedrich-Ebert-Straße 49, 50996 Köln",
+   "precision": "address"
+  }
+ },
+ {
+  "id": "forstbotanischer-garten",
+  "name": "Forstbotanischer Garten",
+  "street": "Schillingsrotter Straße 100",
+  "plz": "50996",
+  "district": "Rodenkirchen",
+  "pages": [
+   19
+  ],
+  "geocode": {
+   "query": "Forstbotanischer Garten Köln",
+   "precision": "poi",
+   "pick": 0
+  }
+ },
+ {
+  "id": "gut-leidenhausen",
+  "name": "Gut Leidenhausen",
+  "street": "Gut Leidenhausen 1",
+  "plz": "51147",
+  "district": "Porz-Eil",
+  "pages": [
+   25,
+   36,
+   39
+  ],
+  "geocode": {
+   "query": "Gut Leidenhausen 1, 51147 Köln",
+   "precision": "address"
+  }
+ },
+ {
+  "id": "stadtgaertnerei",
+  "name": "Stadtgärtnerei Köln",
+  "street": "Am Grauen Stein 26",
+  "plz": "51105",
+  "district": "Poll",
+  "pages": [
+   35,
+   65
+  ],
+  "geocode": {
+   "query": "Am Grauen Stein 26, 51105 Köln",
+   "precision": "address"
+  }
+ },
+ {
+  "id": "freiluga",
+  "name": "Freiluga (Freiluft- und Gartenarbeitsschule)",
+  "street": "Belvederestraße 159",
+  "plz": "50933",
+  "district": "Müngersdorf",
+  "pages": [
+   23,
+   81
+  ],
+  "geocode": {
+   "query": "Belvederestraße 159, 50933 Köln",
+   "precision": "address"
+  }
+ },
+ {
+  "id": "lindenthaler-tierpark",
+  "name": "Lindenthaler Tierpark",
+  "street": "Kitschburger Straße",
+  "plz": null,
+  "district": "Lindenthal",
+  "pages": [
+   31
+  ],
+  "geocode": {
+   "query": "Lindenthaler Tierpark Köln",
+   "precision": "poi"
+  }
+ },
+ {
+  "id": "wildpark-duennwald",
+  "name": "Wildpark Dünnwald",
+  "street": "Dünnwalder Mauspfad 230",
+  "plz": "51069",
+  "district": "Dünnwald",
+  "pages": [
+   43
+  ],
+  "geocode": {
+   "query": "Wildpark Dünnwald",
+   "precision": "poi",
+   "pick": 0
+  }
+ },
+ {
+  "id": "waldbad-duennwald",
+  "name": "Waldbad Dünnwald (Eingang)",
+  "street": null,
+  "plz": null,
+  "district": "Dünnwald",
+  "pages": [
+   55
+  ],
+  "geocode": {
+   "query": "Waldbad Dünnwald Köln",
+   "precision": "stop",
+   "pick": 0
+  }
+ },
+ {
+  "id": "worringer-bruch",
+  "name": "Worringer Bruch (Senfweg/Bruchstraße)",
+  "street": "Kreuzung Senfweg/Bruchstraße",
+  "plz": null,
+  "district": "Worringen",
+  "pages": [
+   53
+  ],
+  "fixed": {
+   "lat": 51.0474363,
+   "lon": 6.8553027,
+   "precision": "junction",
+   "source": "OSM/Overpass: Knoten Senfweg × Bruchstraße (Worringen)"
+  }
+ },
+ {
+  "id": "siebenhuegelpark-vogelsang",
+  "name": "StadtNaturPark Siebenhügelpark (Biesterfeld, Vogelsang)",
+  "street": null,
+  "plz": null,
+  "district": "Vogelsang",
+  "pages": [
+   64
+  ],
+  "fixed": {
+   "lat": 50.96203885686808,
+   "lon": 6.885012816188752,
+   "precision": "pdf",
+   "source": "Koordinaten laut PDF S. 64 (Google Maps)"
+  }
+ },
+ {
+  "id": "rodenkirchen-uferstrasse",
+  "name": "Uferstraße, Parkplatz am Minigolfplatz",
+  "street": "Uferstraße",
+  "plz": null,
+  "district": "Rodenkirchen",
+  "pages": [
+   66
+  ],
+  "unlocated": "Minigolfplatz/Parkplatz an der Uferstraße (Rodenkirchen) in OSM nicht eindeutig auffindbar; Uferstraße ist lang"
+ },
+ {
+  "id": "waldlabor",
+  "name": "Waldlabor (Bachemer Landstraße/Stüttgenweg)",
+  "street": "Bachemer Landstraße/Ecke Stüttgenweg",
+  "plz": null,
+  "district": "Junkersdorf",
+  "pages": [
+   70,
+   126
+  ],
+  "fixed": {
+   "lat": 50.918926,
+   "lon": 6.8771846,
+   "precision": "junction",
+   "source": "OSM/Overpass: Knoten Stüttgenweg × Bachemer Landstraße"
+  }
+ },
+ {
+  "id": "hst-westhoven",
+  "name": "KVB-Haltestelle Westhoven/Kölner Straße",
+  "street": "Kölner Straße",
+  "plz": null,
+  "district": "Westhoven",
+  "pages": [
+   73
+  ],
+  "geocode": {
+   "query": "Westhoven Kölner Straße",
+   "precision": "stop",
+   "pick": 1
+  }
+ },
+ {
+  "id": "stadtwald-duerener",
+  "name": "Stadtwald (Dürener Straße/Stadtwaldgürtel)",
+  "street": "Dürener Straße/Stadtwaldgürtel",
+  "plz": null,
+  "district": "Lindenthal",
+  "pages": [
+   80
+  ],
+  "geocode": {
+   "query": "Dürener Straße Stadtwaldgürtel Köln",
+   "precision": "stop",
+   "pick": 2
+  }
+ },
+ {
+  "id": "hst-stuettgenhof",
+  "name": "KVB-Haltestelle Stüttgenhof",
+  "street": null,
+  "plz": null,
+  "district": "Junkersdorf",
+  "pages": [
+   123
+  ],
+  "geocode": {
+   "query": "Stüttgenhof Köln",
+   "precision": "stop",
+   "pick": 3
+  }
+ },
+ {
+  "id": "hst-wilhelm-sollmann",
+  "name": "KVB-Haltestelle Wilhelm-Sollmann-Straße",
+  "street": "Wilhelm-Sollmann-Straße",
+  "plz": null,
+  "district": null,
+  "pages": [
+   127
+  ],
+  "fixed": {
+   "lat": 50.991878,
+   "lon": 6.9412229,
+   "precision": "stop",
+   "source": "OSM/Overpass: Haltestelle Wilhelm-Sollmann-Straße (tram_stop)"
+  }
+ },
+ {
+  "id": "haus-am-see",
+  "name": "Parkplatz Haus am See, Decksteiner Weiher",
+  "street": null,
+  "plz": null,
+  "district": "Lindenthal",
+  "pages": [
+   134
+  ],
+  "fixed": {
+   "lat": 50.9184302,
+   "lon": 6.8879974,
+   "precision": "poi",
+   "source": "OSM/Overpass: Knoten „Haus am See“ (Decksteiner Weiher); Parkplatz liegt in unmittelbarer Nähe"
+  }
+ },
+ {
+  "id": "ostfriedhof",
+  "name": "Ostfriedhof (Eingang Dellbrücker Mauspfad)",
+  "street": "Dellbrücker Mauspfad",
+  "plz": null,
+  "district": "Dellbrück",
+  "pages": [
+   140
+  ],
+  "geocode": {
+   "query": "Ostfriedhof Köln Dellbrücker Mauspfad",
+   "precision": "stop",
+   "pick": 0
+  }
+ },
+ {
+  "id": "zwischenwerk-iiib",
+  "name": "Zwischenwerk IIIb (Buschweg/Militärringstraße)",
+  "street": "Buschweg/Militärringstraße",
+  "plz": null,
+  "district": "Nüssenberger Busch",
+  "pages": [
+   88
+  ],
+  "geocode": {
+   "query": "Zwischenwerk IIIb Köln",
+   "precision": "poi"
+  }
+ },
+ {
+  "id": "fort-iv",
+  "name": "Fort IV (Freimersdorfer Weg)",
+  "street": "Freimersdorfer Weg",
+  "plz": null,
+  "district": "Bocklemünd",
+  "pages": [
+   89
+  ],
+  "geocode": {
+   "query": "Fort IV Köln Bocklemünd Freimersdorfer Weg",
+   "precision": "poi"
+  }
+ },
+ {
+  "id": "fort-x-neusser-wall",
+  "name": "Fort X (Neusser Wall)",
+  "street": "Neusser Wall 41",
+  "plz": null,
+  "district": "Neustadt-Nord",
+  "pages": [
+   90,
+   101
+  ],
+  "geocode": {
+   "query": "Fort X Köln Neusser Wall",
+   "precision": "poi",
+   "pick": 0
+  }
+ },
+ {
+  "id": "kunibertsturm",
+  "name": "Haus Konrad-Adenauer-Ufer 55 (Kunibertstürmchen)",
+  "street": "Konrad-Adenauer-Ufer 55",
+  "plz": null,
+  "district": "Altstadt-Nord",
+  "pages": [
+   91
+  ],
+  "geocode": {
+   "query": "Konrad-Adenauer-Ufer 55 Köln",
+   "precision": "address",
+   "pick": 1
+  }
+ },
+ {
+  "id": "turm-prinzengarde",
+  "name": "Turm der Prinzengarde (Sachsenring)",
+  "street": "Sachsenring",
+  "plz": null,
+  "district": "Neustadt-Süd",
+  "pages": [
+   92
+  ],
+  "unlocated": "„Turm der Prinzengarde“ am Sachsenring in OSM/Nominatim nicht auffindbar"
+ },
+ {
+  "id": "fort-vi",
+  "name": "Fort VI (Deckstein)",
+  "street": null,
+  "plz": null,
+  "district": "Marienburg/Klettenberg",
+  "pages": [
+   93
+  ],
+  "geocode": {
+   "query": "Fort VI Köln Deckstein",
+   "precision": "poi",
+   "pick": 1
+  }
+ },
+ {
+  "id": "hst-dellbruecker-hauptstr",
+  "name": "KVB-Haltestelle Dellbrücker Hauptstraße",
+  "street": "Dellbrücker Hauptstraße",
+  "plz": null,
+  "district": "Dellbrück",
+  "pages": [
+   94
+  ],
+  "unlocated": "Haltestelle „Dellbrücker Hauptstraße“ nicht eindeutig auffindbar; Straße ist lang"
+ },
+ {
+  "id": "fort-x-rechtsrheinisch",
+  "name": "Fort X rechtsrheinisch (Nohlenweg)",
+  "street": "Frankfurter Straße/Nohlenweg",
+  "plz": null,
+  "district": "Höhenberg",
+  "pages": [
+   96
+  ],
+  "geocode": {
+   "query": "Fort X Nohlenweg Köln",
+   "precision": "poi"
+  }
+ },
+ {
+  "id": "fort-i",
+  "name": "Fort I (Oberländer Wall)",
+  "street": "Oberländer Wall",
+  "plz": null,
+  "district": "Neustadt-Süd",
+  "pages": [
+   97
+  ],
+  "geocode": {
+   "query": "Oberländer Wall Köln",
+   "precision": "street",
+   "pick": "mean"
+  }
+ },
+ {
+  "id": "malzmuehle",
+  "name": "An der Malzmühle / Mühlenbach",
+  "street": "An der Malzmühle",
+  "plz": null,
+  "district": "Altstadt-Süd",
+  "pages": [
+   98
+  ],
+  "geocode": {
+   "query": "An der Malzmühle Köln",
+   "precision": "street",
+   "pick": 0
+  }
+ },
+ {
+  "id": "bottmuehle",
+  "name": "Bottmühle (Severinswall)",
+  "street": "Severinswall",
+  "plz": null,
+  "district": "Altstadt-Süd",
+  "pages": [
+   100
+  ],
+  "geocode": {
+   "query": "Bottmühle Köln Severinswall",
+   "precision": "poi"
+  }
+ },
+ {
+  "id": "gereonswall",
+  "name": "Am Kümpchenshof / Gereonswall",
+  "street": "Am Kümpchenshof",
+  "plz": null,
+  "district": "Neustadt-Nord",
+  "pages": [
+   102
+  ],
+  "geocode": {
+   "query": "Am Kümpchenshof Köln",
+   "precision": "street",
+   "pick": "mean"
+  }
+ },
+ {
+  "id": "ulrepforte",
+  "name": "Ulrepforte (Kartäuser Wall)",
+  "street": "Kartäuserwall",
+  "plz": null,
+  "district": "Neustadt-Süd",
+  "pages": [
+   103
+  ],
+  "geocode": {
+   "query": "Ulrepforte Köln",
+   "precision": "poi",
+   "pick": 3
+  }
+ }
+]

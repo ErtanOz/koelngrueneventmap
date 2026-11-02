@@ -1,0 +1,13 @@
+node_modules
+dist
+*.local
+.claude
+.venv
+__pycache__
+# Das Programm-PDF der Stadt Köln wird nicht mit veröffentlicht (Nutzungsrechte nicht geklärt).
+source/*.pdf
+sk_473_25_*.pdf
+# Arbeitsverzeichnisse (Screenshots, Logs)
+output
+.playwright-cli
+.kilo

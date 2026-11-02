@@ -1,0 +1,502 @@
+{
+ "Botanischer Garten Köln Flora Alter Stammheimer Weg": [],
+ "Friedrich-Ebert-Straße 49, 50996 Köln": [
+  {
+   "lat": "50.8885574",
+   "lon": "6.9853322",
+   "display_name": "49, Friedrich-Ebert-Straße, Rodenkirchen, Köln, Nordrhein-Westfalen, 50996, Deutschland",
+   "category": "building",
+   "type": "yes",
+   "osm_type": "way",
+   "osm_id": 264812594
+  }
+ ],
+ "Schillingsrotter Straße 100, 50996 Köln": [
+  {
+   "lat": "50.8831152",
+   "lon": "6.9877457",
+   "display_name": "100, Schillingsrotter Straße, Rodenkirchen, Köln, Nordrhein-Westfalen, 50996, Deutschland",
+   "category": "building",
+   "type": "static_caravan",
+   "osm_type": "way",
+   "osm_id": 270219922
+  }
+ ],
+ "Gut Leidenhausen 1, 51147 Köln": [
+  {
+   "lat": "50.8963079",
+   "lon": "7.0973349",
+   "display_name": "Gut Leidenhausen, 1, Gut Leidenhausen, Eil, Porz, Köln, Nordrhein-Westfalen, 51147, Deutschland",
+   "category": "building",
+   "type": "yes",
+   "osm_type": "way",
+   "osm_id": 262911266
+  },
+  {
+   "lat": "50.8964353",
+   "lon": "7.0965785",
+   "display_name": "Gut Leidenhausen, 1, Gut Leidenhausen, Eil, Porz, Köln, Nordrhein-Westfalen, 51147, Deutschland",
+   "category": "amenity",
+   "type": "cafe",
+   "osm_type": "node",
+   "osm_id": 2330814916
+  }
+ ],
+ "Am Grauen Stein 26, 51105 Köln": [
+  {
+   "lat": "50.9252652",
+   "lon": "6.9915905",
+   "display_name": "Stadtgärtnerei Köln, 26, Am Grauen Stein, Milchmädchensiedlung, Gremberg, Poll, Porz, Köln, Nordrhein-Westfalen, 51105, Deutschland",
+   "category": "craft",
+   "type": "gardener",
+   "osm_type": "way",
+   "osm_id": 162032925
+  },
+  {
+   "lat": "50.9245246",
+   "lon": "6.9904179",
+   "display_name": "26, Am Grauen Stein, Milchmädchensiedlung, Gremberg, Poll, Porz, Köln, Nordrhein-Westfalen, 51105, Deutschland",
+   "category": "building",
+   "type": "house",
+   "osm_type": "way",
+   "osm_id": 285632894
+  }
+ ],
+ "Belvederestraße 159, 50933 Köln": [
+  {
+   "lat": "50.9482900",
+   "lon": "6.8689585",
+   "display_name": "Zwischenwerk V a, 159, Belvederestraße, Müngersdorf, Lindenthal, Köln, Nordrhein-Westfalen, 50933, Deutschland",
+   "category": "building",
+   "type": "house",
+   "osm_type": "way",
+   "osm_id": 228232250
+  }
+ ],
+ "Lindenthaler Tierpark Köln": [
+  {
+   "lat": "50.9293366",
+   "lon": "6.8972325",
+   "display_name": "Lindenthaler Tierpark, 1, Marcel-Proust-Promenade, Lindenthal, Köln, Nordrhein-Westfalen, 50935, Deutschland",
+   "category": "tourism",
+   "type": "zoo",
+   "osm_type": "way",
+   "osm_id": 23222614
+  }
+ ],
+ "Dünnwalder Mauspfad 230, 51069 Köln": [
+  {
+   "lat": "50.9898317",
+   "lon": "7.0482084",
+   "display_name": "Dünnwalder Mauspfad, Dünnwald, Mülheim, Köln, Nordrhein-Westfalen, 51069, Deutschland",
+   "category": "highway",
+   "type": "secondary",
+   "osm_type": "way",
+   "osm_id": 161667011
+  }
+ ],
+ "Waldbad Dünnwald Köln": [
+  {
+   "lat": "50.9985889",
+   "lon": "7.0546484",
+   "display_name": "Waldbad, Dünnwalder Mühlenweg, Dünnwald, Mülheim, Köln, Nordrhein-Westfalen, 51069, Deutschland",
+   "category": "highway",
+   "type": "bus_stop",
+   "osm_type": "node",
+   "osm_id": 6911988122
+  }
+ ],
+ "Senfweg Köln Worringen": [
+  {
+   "lat": "51.0514555",
+   "lon": "6.8639872",
+   "display_name": "Senfweg, Worringen, Chorweiler, Köln, Nordrhein-Westfalen, 50769, Deutschland",
+   "category": "highway",
+   "type": "track",
+   "osm_type": "way",
+   "osm_id": 35878112
+  },
+  {
+   "lat": "51.0566528",
+   "lon": "6.8704221",
+   "display_name": "Senfweg, Worringen, Chorweiler, Köln, Nordrhein-Westfalen, 50769, Deutschland",
+   "category": "highway",
+   "type": "unclassified",
+   "osm_type": "way",
+   "osm_id": 23170196
+  }
+ ],
+ "Minigolf Rodenkirchen Uferstraße Köln": [],
+ "Stüttgenweg Köln Junkersdorf": [],
+ "Westhoven Kölner Straße Haltestelle Köln": [],
+ "Stüttgenhof Haltestelle Köln": [],
+ "Wilhelm-Sollmann-Straße Köln": [
+  {
+   "lat": "50.9923425",
+   "lon": "6.9391686",
+   "display_name": "Wilhelm-Sollmann-Straße, Gartenstadt-Nord, Longerich, Nippes, Köln, Nordrhein-Westfalen, 50737, Deutschland",
+   "category": "highway",
+   "type": "tertiary",
+   "osm_type": "way",
+   "osm_id": 1149280664
+  }
+ ],
+ "Haus am See Decksteiner Weiher Köln": [],
+ "Ostfriedhof Köln Dellbrücker Mauspfad": [
+  {
+   "lat": "50.9638001",
+   "lon": "7.0727415",
+   "display_name": "Ostfriedhof, Dellbrücker Mauspfad, Dellbrück, Mülheim, Köln, Nordrhein-Westfalen, 51069, Deutschland",
+   "category": "highway",
+   "type": "bus_stop",
+   "osm_type": "node",
+   "osm_id": 7052230819
+  }
+ ],
+ "Zwischenwerk IIIb Köln": [
+  {
+   "lat": "50.9844495",
+   "lon": "6.8743137",
+   "display_name": "Zwischenwerk IIIb, 2, Buschweg, Ossendorf, Ehrenfeld, Köln, Nordrhein-Westfalen, 50829, Deutschland",
+   "category": "building",
+   "type": "yes",
+   "osm_type": "way",
+   "osm_id": 198769839
+  }
+ ],
+ "Fort IV Köln Bocklemünd Freimersdorfer Weg": [
+  {
+   "lat": "50.9714415",
+   "lon": "6.8609974",
+   "display_name": "Fort IV, 2, Freimersdorfer Weg, Bocklemünd, Bocklemünd/Mengenich, Ehrenfeld, Köln, Nordrhein-Westfalen, 50829, Deutschland",
+   "category": "tourism",
+   "type": "attraction",
+   "osm_type": "way",
+   "osm_id": 44439498
+  }
+ ],
+ "Neusser Wall 41 Köln": [
+  {
+   "lat": "50.9564037",
+   "lon": "6.9604996",
+   "display_name": "Neusser Wall, Agnesviertel, Neustadt/Nord, Innenstadt, Köln, Nordrhein-Westfalen, 50670, Deutschland",
+   "category": "highway",
+   "type": "residential",
+   "osm_type": "way",
+   "osm_id": 10070371
+  },
+  {
+   "lat": "50.9561755",
+   "lon": "6.9658521",
+   "display_name": "Neusser Wall, Agnesviertel, Neustadt/Nord, Innenstadt, Köln, Nordrhein-Westfalen, 50668, Deutschland",
+   "category": "highway",
+   "type": "residential",
+   "osm_type": "way",
+   "osm_id": 386526875
+  }
+ ],
+ "Konrad-Adenauer-Ufer 55 Köln": [
+  {
+   "lat": "50.9485293",
+   "lon": "6.9642203",
+   "display_name": "St. Vincenz-Haus, 55, Konrad-Adenauer-Ufer, Kunibertsviertel, Altstadt-Nord, Innenstadt, Köln, Nordrhein-Westfalen, 50668, Deutschland",
+   "category": "amenity",
+   "type": "social_facility",
+   "osm_type": "way",
+   "osm_id": 249530913
+  },
+  {
+   "lat": "50.9485977",
+   "lon": "6.9648097",
+   "display_name": "55, Konrad-Adenauer-Ufer, Kunibertsviertel, Altstadt-Nord, Innenstadt, Köln, Nordrhein-Westfalen, 50668, Deutschland",
+   "category": "place",
+   "type": "house",
+   "osm_type": "node",
+   "osm_id": 2561209482
+  }
+ ],
+ "Turm der Prinzengarde Köln Sachsenring": [],
+ "Fort VI Köln Deckstein": [
+  {
+   "lat": "50.9146106",
+   "lon": "6.8914848",
+   "display_name": "Fort VI, Deckstein, Lindenthal, Köln, Nordrhein-Westfalen, 50935, Deutschland",
+   "category": "highway",
+   "type": "service",
+   "osm_type": "way",
+   "osm_id": 904876551
+  },
+  {
+   "lat": "50.9146566",
+   "lon": "6.8910613",
+   "display_name": "Fort VI, Deckstein, Lindenthal, Köln, Nordrhein-Westfalen, 50935, Deutschland",
+   "category": "building",
+   "type": "yes",
+   "osm_type": "way",
+   "osm_id": 247289584
+  }
+ ],
+ "Dellbrücker Hauptstraße Haltestelle Köln Dellbrück": [],
+ "Fort X Nohlenweg Köln": [
+  {
+   "lat": "50.9383352",
+   "lon": "7.0358908",
+   "display_name": "Fort X, Nohlenweg, Merheim, Kalk, Köln, Nordrhein-Westfalen, 51107, Deutschland",
+   "category": "historic",
+   "type": "fort",
+   "osm_type": "way",
+   "osm_id": 182051056
+  }
+ ],
+ "Fort I Oberländer Wall Köln": [],
+ "An der Malzmühle Köln": [
+  {
+   "lat": "50.9340112",
+   "lon": "6.9597105",
+   "display_name": "An der Malzmühle, Georgsviertel, Altstadt-Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50676, Deutschland",
+   "category": "highway",
+   "type": "secondary",
+   "osm_type": "way",
+   "osm_id": 63566383
+  }
+ ],
+ "Bottmühle Köln Severinswall": [
+  {
+   "lat": "50.9228159",
+   "lon": "6.9630852",
+   "display_name": "Bottmühle, 32, Severinswall, Severinsviertel, Altstadt-Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50678, Deutschland",
+   "category": "historic",
+   "type": "windmill",
+   "osm_type": "way",
+   "osm_id": 249181383
+  }
+ ],
+ "Am Kümpchenshof Köln": [
+  {
+   "lat": "50.9458515",
+   "lon": "6.9466743",
+   "display_name": "Am Kümpchenshof, Gereonsviertel, Altstadt-Nord, Innenstadt, Köln, Nordrhein-Westfalen, 50670, Deutschland",
+   "category": "highway",
+   "type": "secondary",
+   "osm_type": "way",
+   "osm_id": 151057614
+  },
+  {
+   "lat": "50.9467578",
+   "lon": "6.9455844",
+   "display_name": "Am Kümpchenshof, Neustadt/Nord, Innenstadt, Köln, Nordrhein-Westfalen, 50670, Deutschland",
+   "category": "highway",
+   "type": "secondary",
+   "osm_type": "way",
+   "osm_id": 373530095
+  }
+ ],
+ "Ulrepforte Köln Kartäuserwall": [],
+ "Botanischer Garten Köln": [
+  {
+   "lat": "50.9612429",
+   "lon": "6.9702125",
+   "display_name": "Flora, Riehl, Nippes, Köln, Nordrhein-Westfalen, Deutschland",
+   "category": "leisure",
+   "type": "park",
+   "osm_type": "way",
+   "osm_id": 155328236
+  }
+ ],
+ "Forstbotanischer Garten Köln": [
+  {
+   "lat": "50.8857547",
+   "lon": "6.9820287",
+   "display_name": "Forstbotanischer Garten, Rodenkirchen, Köln, Nordrhein-Westfalen, Deutschland",
+   "category": "leisure",
+   "type": "park",
+   "osm_type": "way",
+   "osm_id": 1382858399
+  }
+ ],
+ "Wildpark Dünnwald": [
+  {
+   "lat": "50.9943395",
+   "lon": "7.0538410",
+   "display_name": "Wildpark Dünnwald, Baumpfad, Dünnwald, Mülheim, Köln, Nordrhein-Westfalen, 51069, Deutschland",
+   "category": "tourism",
+   "type": "zoo",
+   "osm_type": "way",
+   "osm_id": 551498052
+  }
+ ],
+ "Fort X Köln Neusser Wall": [
+  {
+   "lat": "50.9573713",
+   "lon": "6.9611612",
+   "display_name": "Fort X, 33, Neusser Wall, Agnesviertel, Neustadt/Nord, Innenstadt, Köln, Nordrhein-Westfalen, 50670, Deutschland",
+   "category": "historic",
+   "type": "fort",
+   "osm_type": "way",
+   "osm_id": 155422545
+  }
+ ],
+ "Oberländer Wall Köln": [
+  {
+   "lat": "50.9170756",
+   "lon": "6.9659827",
+   "display_name": "Oberländer Wall, Südstadt, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50678, Deutschland",
+   "category": "highway",
+   "type": "residential",
+   "osm_type": "way",
+   "osm_id": 154513860
+  },
+  {
+   "lat": "50.9182538",
+   "lon": "6.9683613",
+   "display_name": "Oberländer Wall, Südstadt, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50678, Deutschland",
+   "category": "highway",
+   "type": "path",
+   "osm_type": "way",
+   "osm_id": 1124131250
+  }
+ ],
+ "Westhoven Kölner Straße": [
+  {
+   "lat": "50.9065680",
+   "lon": "7.0150870",
+   "display_name": "Westhoven, Kölner Straße, Kölner Straße, Kaserne Westhoven, Westhoven, Porz, Köln, Nordrhein-Westfalen, 51149, Deutschland",
+   "category": "railway",
+   "type": "platform",
+   "osm_type": "way",
+   "osm_id": 48047870
+  },
+  {
+   "lat": "50.9066048",
+   "lon": "7.0149047",
+   "display_name": "Westhoven, Kölner Straße, Kölner Straße, Kaserne Westhoven, Westhoven, Porz, Köln, Nordrhein-Westfalen, 51149, Deutschland",
+   "category": "railway",
+   "type": "tram_stop",
+   "osm_type": "node",
+   "osm_id": 247488766
+  }
+ ],
+ "Dürener Straße Stadtwaldgürtel Köln": [
+  {
+   "lat": "50.9284564",
+   "lon": "6.9086750",
+   "display_name": "Dürener Straße/Gürtel, Stadtwaldgürtel, Lindenthal, Köln, Nordrhein-Westfalen, 50931, Deutschland",
+   "category": "railway",
+   "type": "platform",
+   "osm_type": "way",
+   "osm_id": 233256888
+  },
+  {
+   "lat": "50.9284856",
+   "lon": "6.9085401",
+   "display_name": "Dürener Straße/Gürtel, Stadtwaldgürtel, Lindenthal, Köln, Nordrhein-Westfalen, 50935, Deutschland",
+   "category": "railway",
+   "type": "platform",
+   "osm_type": "way",
+   "osm_id": 233256889
+  },
+  {
+   "lat": "50.9284048",
+   "lon": "6.9086050",
+   "display_name": "Dürener Straße/Gürtel, Stadtwaldgürtel, Lindenthal, Köln, Nordrhein-Westfalen, 50931, Deutschland",
+   "category": "railway",
+   "type": "tram_stop",
+   "osm_type": "node",
+   "osm_id": 2415878669
+  }
+ ],
+ "Stüttgenhof Köln": [
+  {
+   "lat": "50.9219137",
+   "lon": "6.8747691",
+   "display_name": "Stüttgenhof, Stadtwaldviertel, Junkersdorf, Lindenthal, Köln, Nordrhein-Westfalen, Deutschland",
+   "category": "landuse",
+   "type": "residential",
+   "osm_type": "way",
+   "osm_id": 145937651
+  },
+  {
+   "lat": "50.9219624",
+   "lon": "6.8748119",
+   "display_name": "Stüttgenhof, Stadtwaldviertel, Junkersdorf, Lindenthal, Köln, Nordrhein-Westfalen, 50858, Deutschland",
+   "category": "highway",
+   "type": "service",
+   "osm_type": "way",
+   "osm_id": 715386204
+  },
+  {
+   "lat": "50.9217137",
+   "lon": "6.8750593",
+   "display_name": "Stüttgenhof, Stadtwaldviertel, Junkersdorf, Lindenthal, Köln, Nordrhein-Westfalen, 50858, Deutschland",
+   "category": "building",
+   "type": "yes",
+   "osm_type": "way",
+   "osm_id": 255461997
+  },
+  {
+   "lat": "50.9200199",
+   "lon": "6.8771968",
+   "display_name": "Stüttgenhof, Stüttgenweg, Lindenthal, Köln, Nordrhein-Westfalen, 50935, Deutschland",
+   "category": "railway",
+   "type": "platform",
+   "osm_type": "way",
+   "osm_id": 145937646
+  },
+  {
+   "lat": "50.9200709",
+   "lon": "6.8774668",
+   "display_name": "Stüttgenhof, Stüttgenweg, Lindenthal, Köln, Nordrhein-Westfalen, 50935, Deutschland",
+   "category": "railway",
+   "type": "stop",
+   "osm_type": "node",
+   "osm_id": 3586569346
+  }
+ ],
+ "Ulrepforte Köln": [
+  {
+   "lat": "50.9240929",
+   "lon": "6.9532752",
+   "display_name": "Ulrepforte, Südstadt, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50677, Deutschland",
+   "category": "highway",
+   "type": "pedestrian",
+   "osm_type": "way",
+   "osm_id": 1079693187
+  },
+  {
+   "lat": "50.9241503",
+   "lon": "6.9518743",
+   "display_name": "Ulrepforte, Sachsenring, Volksgartenviertel, Südstadt, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50677, Deutschland",
+   "category": "railway",
+   "type": "platform",
+   "osm_type": "way",
+   "osm_id": 320186500
+  },
+  {
+   "lat": "50.9241939",
+   "lon": "6.9531289",
+   "display_name": "Ulrepforte, 1, Ulrepforte, Südstadt, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50677, Deutschland",
+   "category": "building",
+   "type": "yes",
+   "osm_type": "way",
+   "osm_id": 1207797957
+  },
+  {
+   "lat": "50.9242318",
+   "lon": "6.9530825",
+   "display_name": "Ulrepforte, Südstadt, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50677, Deutschland",
+   "category": "tourism",
+   "type": "attraction",
+   "osm_type": "way",
+   "osm_id": 35006256
+  },
+  {
+   "lat": "50.9241416",
+   "lon": "6.9518203",
+   "display_name": "Ulrepforte, Sachsenring, Volksgartenviertel, Südstadt, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50677, Deutschland",
+   "category": "railway",
+   "type": "tram_stop",
+   "osm_type": "node",
+   "osm_id": 254380578
+  }
+ ]
+}
